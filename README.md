@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Rohini Rao 👋 </h1>
+<h1 align="center">Hi there! I'm Anmol Singh 👋 </h1>
 <img class="fit-picture" align="right"
      width="400" height="400"
      src="https://i.imgur.com/iigzIrT.png">
@@ -10,13 +10,10 @@ Here are some ideas to get you started:
 <h3>
   
 - 🔭 I’m currently a Software Engineering Intern
-- 🌱 I’m currently learning Django and Blockchain
-- 👯 I’m looking to collaborate on projects based on Flutter, Blockchain, and Django!
-- 💬 Ask me about anything Python and Flutter!  
+- 👯 I’m looking to collaborate on projects based on Java, JavaScript, and DSA!
+- 💬 Ask me about anything JavaScript and DSA!  
 - 📫 How to reach me: On any of my socials
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I am a professional Bharatanatyam Dancer
-- ✍🏼 Checkout my blog: [here](https://rohinirg.hashnode.dev/)
+- ⚡ Fun fact: I am a professional Squash Player
 </h3>
 <br />
 <br>
