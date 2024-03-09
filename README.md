@@ -1,4 +1,8 @@
-
+<h1 align="center">Hi there! I'm Rohini Rao 👋 </h1>
+<img class="fit-picture" align="right"
+     width="400" height="400"
+     src="https://i.imgur.com/iigzIrT.png">
+<h1 align="center">About me! 🚀</h1>
 <!--
 Here are some ideas to get you started:
 -->
