@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 ![Rohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohiniRG&show_icons=true&theme=dark&count_private=true&include_all_commits=true)    
      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohiniRG&layout=compact&theme=dark)](https://github.com/RohiniRG/github-readme-stats)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lomna21&show_icons=true&locale=en&layout=compact" alt="lomna21" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lomna21&show_icons=true&locale=en&layout=compact&theme=dark" alt="lomna21" /></p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lomna21&label=Profile%20views&color=0e75b6&style=flat" alt="lomna21" /> </p>
