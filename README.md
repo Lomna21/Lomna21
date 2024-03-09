@@ -71,8 +71,7 @@ Here are some ideas to get you started:
      
      
 ![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=lomna21&show_icons=true&theme=dark&count_private=true&include_all_commits=true)    
-     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohiniRG&layout=compact&theme=dark)](https://github.com/RohiniRG/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lomna21&show_icons=true&locale=en&layout=compact&theme=dark" alt="lomna21" /></p>
 
 
