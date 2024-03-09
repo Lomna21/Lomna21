@@ -92,7 +92,6 @@ Here are some ideas to get you started:
 <br>
 
 [<img align="center" alt="Anmol | Linkedln" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-
 [<img align="center" alt="Anmol | Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
 [<img align="center" alt="Anmol | Gmail" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>][gmail]
 </h1>
@@ -112,7 +111,6 @@ Here are some ideas to get you started:
      
 
 [linkedin]: [https://www.linkedin.com/in/rohini-rao-39ab291a4/](https://www.linkedin.com/in/anmol-singh-4b1490225/)
-
 [instagram]: [https://www.instagram.com/shades_n_strokes__/](https://www.instagram.com/lomna_anmol21/)
 [gmail]: lomnaanmol12@gmail.com
 
