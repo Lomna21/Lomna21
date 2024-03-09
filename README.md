@@ -105,7 +105,7 @@ Here are some ideas to get you started:
      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohiniRG&layout=compact&theme=dark)](https://github.com/RohiniRG/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lomna21&label=Profile%20views&color=0e75b6&style=flat" alt="lomna21" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lomna21&label=Profile%20views&color=0e75b6&style=flat" alt="lomna21" /> </p>
      
 
 [linkedin]: [https://www.linkedin.com/in/rohini-rao-39ab291a4/](https://www.linkedin.com/in/anmol-singh-4b1490225/)
