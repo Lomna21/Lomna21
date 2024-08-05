@@ -77,7 +77,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lomna21&label=Profile%20views&color=0e75b6&style=flat" alt="lomna21" /> </p>
      
 
-[linkedin]: [https://www.linkedin.com/in/rohini-rao-39ab291a4/](https://www.linkedin.com/in/anmol-singh-4b1490225/)
+[linkedin]: [https://www.linkedin.com/in/anmol-singh-4b1490225/](https://www.linkedin.com/in/anmol-singh-4b1490225/)
 [instagram]: [https://www.instagram.com/shades_n_strokes__/](https://www.instagram.com/lomna_anmol21/)
 [gmail]: lomnaanmol12@gmail.com
 
