@@ -78,7 +78,7 @@
      
 
 [linkedin]: https://www.linkedin.com/in/anmol-singh-4b1490225/
-[instagram]: [https://www.instagram.com/shades_n_strokes__/](https://www.instagram.com/lomna_anmol21/)
+[instagram]: https://www.instagram.com/lomna_anmol21/
 [gmail]: lomnaanmol12@gmail.com
 
 <br /> 
