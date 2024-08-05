@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on projects based on Java, JavaScript, and DSA
 - 💬 Ask me about anything JavaScript and DSA
 - 📫 How to reach me: On any of my socials
-- ⚡ Fun fact: I am a professional Squash Player
+- ⚡ Interesting fact: I am a professional Squash Player
 </h3>
 <br />
 <br>
