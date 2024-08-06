@@ -7,6 +7,7 @@
 <h1 align="center">About me! 🚀</h1>
 
 <h3>
+  
 - 🔭 I’m currently looking for an intern
 - 👯 I’m looking to collaborate on projects based on C++, ML, and DSA
 - 💬 Ask me anything about ML and DSA
