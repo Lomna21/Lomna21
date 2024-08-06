@@ -7,7 +7,6 @@
 <h1 align="center">About me! 🚀</h1>
 
 <h3>
-  
 - 🔭 I’m currently looking for an intern
 - 👯 I’m looking to collaborate on projects based on C++, ML, and DSA
 - 💬 Ask me anything about ML and DSA
@@ -24,7 +23,7 @@
 <!--   <img src="https://img.shields.io/badge/flutter-45B6FE.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp; -->
 <!--   <img src="https://img.shields.io/badge/bootstrap-563d7c.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp; -->
 <!--   <img src="https://img.shields.io/badge/Sqlite-20639B.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;&nbsp; -->
-<!--   <img src="https://img.shields.io/badge/flask-FFFFFF.svg?&style=for-the-badge&logo=flask&logoColor=black" />&nbsp;&nbsp;&nbsp; -->
+  <img src="https://img.shields.io/badge/flask-FFFFFF.svg?&style=for-the-badge&logo=flask&logoColor=black" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;&nbsp;
 <!--   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>&nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;&nbsp;
